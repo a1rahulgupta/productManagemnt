@@ -20,7 +20,7 @@ Run `node ./bin/www `for  node server. This app will automatically connected to 
 
 ## Description (following steps for better result)
 
--------------------------------------Added Details in Database-----------------
+-------------------------------------Added Details in Database----------------------------------------------------------------------------
 
 Enter some details by below api with the help of Insomnia (https://insomnia.rest/download/) or Postman (https://www.postman.com/downloads/)
 
