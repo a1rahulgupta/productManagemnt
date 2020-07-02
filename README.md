@@ -44,7 +44,7 @@ You can edit, view and delete product by hover on perticuler product.
 
 You can logout by click on Logout button.
 
-We have added image of this app.
+I have added some screenshots of this app.
 
 ## Further help
 
