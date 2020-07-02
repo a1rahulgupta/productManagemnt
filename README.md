@@ -3,13 +3,13 @@
 
 Product Management App Web Application V.1
 
-## Development server Front (Angular)
+## Development Client Front-End (Angular)
 
 Run `npm install` in client folder for install node_modules.
 
 Run `ng serve` for a angular server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Development server Back (Node)
+## Development Server Back-End (Node)
 
 Run `npm install` in server folder for install node_modules.
 
