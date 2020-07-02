@@ -25,14 +25,15 @@ Run `node ./bin/www `for  node server. This app will automatically connected to 
 Enter some details by below api with the help of Insomnia (https://insomnia.rest/download/) or Postman (https://www.postman.com/downloads/)
 
 Add user for Admin (http://localhost:3001/api/register) method "POST" 
-{
- "email":"your email address",
- "password":"your password"
-}
+`{"email":"your email address","password":"your password"}`
+Add user for Admin (http://localhost:3001/api/register) method "POST" 
+
+
+
+
+
 Add Category Names for product (http://localhost:3001/api/addNewCategory) method "POST"
-{
- "categoryName":"any category name"
-}
+`{"categoryName":"any category name"}`
 ----------------------------------------------------------------------------------
 
 
