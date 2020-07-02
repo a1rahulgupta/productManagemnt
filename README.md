@@ -20,22 +20,17 @@ Run `node ./bin/www `for  node server. This app will automatically connected to 
 
 ## Description (following steps for better result)
 
--------------------------------------Added Details in Database--------------------------------------------
+-------------------------------------Added Details in Database-----------------
 
 Enter some details by below api with the help of Insomnia (https://insomnia.rest/download/) or Postman (https://www.postman.com/downloads/)
 
 Add user for Admin (http://localhost:3001/api/register) method "POST" 
 `{"email":"your email address","password":"your password"}`
-Add user for Admin (http://localhost:3001/api/register) method "POST" 
 
-
-
-
-
-Add Category Names for product (http://localhost:3001/api/addNewCategory) method "POST"
+Add Category Names for product (http://localhost:3001/api/addNewCategory) method "POST" 
 `{"categoryName":"any category name"}`
-----------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------
 
 Login with Your Credentials in Application : `http://localhost:4200/`
 
