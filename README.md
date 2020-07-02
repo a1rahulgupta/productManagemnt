@@ -29,7 +29,6 @@ Add user for Admin (http://localhost:3001/api/register) method "POST"
  "email":"your email address",
  "password":"your password"
 }
-
 Add Category Names for product (http://localhost:3001/api/addNewCategory) method "POST"
 {
  "categoryName":"any category name"
